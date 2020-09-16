@@ -9,19 +9,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-09-16T20:32:25+00:00\n"
-"PO-Revision-Date: \n"
-"X-Generator: WP-CLI 2.4.0\n"
+"PO-Revision-Date: 2020-09-16 22:42+0200\n"
+"X-Generator: Poedit 2.4.1\n"
 "X-Domain: woocommerce-sold-out-badge\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Luca Scalzotto\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
 
 #. Plugin Name of the plugin
 msgid "WooCommerce Sold Out Badge"
-msgstr ""
+msgstr "WooCommerce Uitverkocht Badge"
 
 #. Description of the plugin
 msgid "A simple \"Sold Out\" badge for out-of-stock products."
-msgstr ""
+msgstr "Een simpele \"Uitverkocht\" badge voor producten zonder voorraad."
 
 #. Author of the plugin
 msgid "Luca Scalzotto"
@@ -33,4 +34,4 @@ msgstr ""
 
 #: sold-out-badge.php:29
 msgid "Sold Out"
-msgstr ""
+msgstr "Uitverkocht"
